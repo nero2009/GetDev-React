@@ -1,0 +1,5 @@
+export const POST_URL = "https://jsonplaceholder.typicode.com/posts"
+export const COMMENT_URL ="https://jsonplaceholder.typicode.com/comments"
+export const ALBUM_URL = "https://jsonplaceholder.typicode.com/albums"
+export const PHOTO_URL = "https://jsonplaceholder.typicode.com/photos"
+export const USER_URL = "https://jsonplaceholder.typicode.com/users"

@@ -1,0 +1,5 @@
+.image-gallery{
+    display: grid;
+    grid-template-columns: repeat(6, 150px  );
+    grid-gap: 50px;
+}
