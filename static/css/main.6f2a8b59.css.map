@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Photos/Photos.css"],"names":[],"mappings":"AAAA,eACI,aACA,sCACA,aAAe","file":"static/css/main.6f2a8b59.css","sourcesContent":[".image-gallery{\r\n    display: grid;\r\n    grid-template-columns: repeat(6, 150px  );\r\n    grid-gap: 50px;\r\n}\n\n\n// WEBPACK FOOTER //\n// ./src/components/Photos/Photos.css"],"sourceRoot":""}
